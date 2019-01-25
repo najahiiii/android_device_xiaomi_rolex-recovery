@@ -92,3 +92,6 @@ TW_USE_TOOLBOX := true
 
 # Disable Mouse Cursor
 TW_INPUT_BLACKLIST := "hbtp_vm"
+
+# Gestures
+TARGET_TAP_TO_WAKE_NODE := "/proc/gesture/onoff"
